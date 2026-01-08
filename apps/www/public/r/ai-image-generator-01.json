@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "ai-image-generator-01",
-  "type": "registry:block",
   "description": "AI image generator with upload and editor capabilities",
   "registryDependencies": [
     "button",
@@ -29,5 +28,6 @@
   },
   "categories": [
     "ai-agents"
-  ]
+  ],
+  "type": "registry:block"
 }

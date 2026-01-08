@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "ai-video-generator-01",
-  "type": "registry:block",
   "description": "AI video generation agent with preview",
   "registryDependencies": [
     "button",
@@ -29,5 +28,6 @@
   },
   "categories": [
     "ai-agents"
-  ]
+  ],
+  "type": "registry:block"
 }

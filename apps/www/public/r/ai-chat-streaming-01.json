@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "ai-chat-streaming-01",
-  "type": "registry:block",
   "description": "AI chat with streaming responses and thinking process",
   "registryDependencies": [
     "button",
@@ -28,5 +27,6 @@
   },
   "categories": [
     "ai-agents"
-  ]
+  ],
+  "type": "registry:block"
 }
